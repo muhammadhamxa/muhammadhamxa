@@ -70,10 +70,7 @@ I'm a dedicated mobile developer specializing in Flutter applications and AI cha
 ## 📫 Let's Connect
 
 - **GitHub:** [@muhammadhamxa](https://github.com/muhammadhamxa)
-- **Email:** [Your email here]
-- **LinkedIn:** [Your LinkedIn profile]
-- **Twitter:** [Your Twitter handle]
-
+- **Email:** mhamxa98@gmail.com
 ---
 
 <div align="center">
