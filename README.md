@@ -21,7 +21,7 @@ I'm a dedicated mobile developer specializing in Flutter applications and AI cha
 - **APIs & Integration:** REST APIs, Firebase, GraphQL
 
 ### AI & Machine Learning
-- **Languages:** Python, TensorFlow, PyTorch
+- **Languages:** Python, Typescript, AI SDK
 - **NLP:** ChatGPT Integration, Dialogue Systems, LLMs
 - **Chatbot Development:** Conversational AI, Intent Recognition
 - **APIs:** OpenAI, Hugging Face, Custom ML Models
