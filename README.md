@@ -42,14 +42,6 @@ I'm a mobile developer focused on building polished Flutter applications and AI-
 - Firebase and REST API integrations
 - Real-time features, testing, and performance optimization
 
-## 📊 GitHub at a Glance
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadhamxa&show_icons=true&theme=tokyonight)
-
-</div>
-
 ## 📫 Let's Connect
 
 - **GitHub:** [@muhammadhamxa](https://github.com/muhammadhamxa)
